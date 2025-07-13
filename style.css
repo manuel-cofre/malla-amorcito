@@ -89,18 +89,17 @@ h1 {
 
 
 @media (max-width: 768px) {
-  #malla-container {
-    flex-direction: column;
-    align-items: center;
-  }
-
   .semestre {
-    width: 90%;
+    width: 100%;
     margin-bottom: 30px;
   }
 
   .ramo {
-    padding: 10px;
-    font-size: 16px;
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  h2 {
+    text-align: center;
   }
 }
