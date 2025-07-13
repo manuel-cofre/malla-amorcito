@@ -36,6 +36,7 @@ const malla = [
    ["Electivo Lengua A", "semestral"], ["Electivo Lengua B", "semestral"], 
    ["Electivo Especialización Temática", "anual"],
    ["Electivo Lengua A", "semestral"], ["Electivo Lengua B", "semestral"],
+   ["Electivo Lengua Mayor Competencia","semestral"],
    ["Seminario Licenciatura en Translatología", "semestral"], ["Asignatura Complementaria", "semestral"]]
 ];
 
