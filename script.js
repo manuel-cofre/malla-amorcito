@@ -1,7 +1,7 @@
 
 const malla = [
-  [["Lengua Extranjera A I", "anual"], ["Lengua Extranjera B I", "anual"], ["Lingüística General", "semestral"],
-   ["Literatura Universal en Lengua Española", "semestral"], ["Lengua Española", "semestral"],
+  [["Lengua Extranjera A I", "anual"], ["Lengua Extranjera B I", "anual"], ["Lingüística General", "anual"],
+   ["Literatura Universal en Lengua Española", "anual"], ["Lengua Española", "anual"],
    ["Nueva Tecnologías de Información", "semestral"], ["Asignatura Complementaria", "semestral"]],
 
   [["Lengua Extranjera A II", "anual"], ["Lengua Extranjera B II", "anual"], ["Lingüística del Texto", "semestral"],
