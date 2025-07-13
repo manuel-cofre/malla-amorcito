@@ -7,31 +7,36 @@ const malla = [
   [["Lengua Extranjera A II", "anual"], ["Lengua Extranjera B II", "anual"], ["Lingüística del Texto", "semestral"],
    ["Latín y Raíces Griegas", "semestral"], ["Introducción a la Literatura en Lengua Extranjera A", "semestral"],
    ["Introducción a la Literatura en Lengua Extranjera B", "semestral"],
-   ["Electivo Lengua Española", "semestral"], ["Electivo Lengua A", "semestral"],
-   ["Electivo Lengua B", "semestral"], ["Asignatura Complementaria", "semestral"]],
+   ["Electivo Lengua Española", "semestral"], ["Asignatura complementaria", "semestral"],
+   ["Electivo Lengua A", "semestral"], ["Electivo lengua B", "semestral"]],
 
   [["Lengua Extranjera A III", "anual"], ["Lengua Extranjera B III", "anual"], ["Translatología", "semestral"],
    ["Terminología", "semestral"], ["Literatura en Lengua Extranjera A", "semestral"],
    ["Literatura en Lengua Extranjera B", "semestral"],
-   ["Metodología y Práctica Traducción Lengua Extranjera A I", "semestral"],
-   ["Metodología y Práctica Traducción Lengua Extranjera A II", "semestral"],
-   ["Metodología y Práctica Traducción Lengua Extranjera B I", "semestral"],
-   ["Metodología y Práctica Traducción Lengua Extranjera B II", "semestral"]],
+   ["Metodología y Práctica Traducción Lengua Extranjera A I", "anual"],
+   ["Metodología y Práctica Traducción Lengua Extranjera B I", "anual"]],
+   
 
   [["Lengua Extranjera A IV", "anual"], ["Lengua Extranjera B IV", "anual"], ["Asignatura Complementaria", "semestral"],
-   ["Metodología Investigación", "semestral"], ["Electivo Especialización Temática", "semestral"],
+   ["Metodología Investigación", "semestral"], ["Electivo Especialización Temática", "anual"],
+   ["Metodología y Práctica Traducción Lengua Extranjera A II", "anual"],
+   ["Metodología y Práctica Traducción Lengua Extranjera B II", "anual"],
    ["Iniciación Traducción Inversa", "semestral"], ["Práctica Traducción Inversa", "semestral"]],
 
-  [["Técnicas Interpretación Consecutivas/simultáneas (Unilateral Lengua Extranjera A/B)", "semestral"],
-   ["Técnicas Interpretación Consecutivas/simultáneas (Bilateral Lengua Extranjera A/B)", "semestral"],
-   ["Técnica de Expresión Oral", "semestral"], ["Lenguaje y Memoria", "semestral"],
-   ["Mnemotecnia y Notación", "semestral"], ["Práctica Profesional Traducción", "semestral"],
-   ["Asignatura Complementaria", "semestral"], ["Seminario Licenciatura en Traductología", "semestral"]],
+  [["Técnicas Interpretación Consecutivas/simultáneas (Unilateral Lengua Extranjera A/B)", "anual"],
+   ["Técnicas Interpretación Consecutivas/simultáneas (Bilateral Lengua Extranjera A/B)", "anual"],
+   ["Electivo Lengua A", "semestral"],["Electivo Lengua B", "semestral"],
+   ["Técnica de Expresión Oral", "semestral"], ["Lenguaje y Memoria", "semestral"],["Asignatura Complementaria", "semestral"],
+   ["Asignatura Complementaria", "semestral"],["Mnemotecnia y Notación", "semestral"],
+   ["Práctica Profesional Traducción", "semestral"],
+   ["Seminario Licenciatura en Traductología", "semestral"]],
 
-  [["Electivo Lengua A", "semestral"], ["Electivo Lengua B", "semestral"], ["Electivo Lengua A", "semestral"],
-   ["Electivo Lengua B", "semestral"], ["Electivo Especialización Temática", "semestral"],
+  [["Técnicas Interpretación Consecutivas/simultáneas (Unilateral Lengua Extranjera A/B)", "anual"],
+   ["Técnicas Interpretación Consecutivas/simultáneas (Bilateral Lengua Extranjera A/B)", "anual"],
+   ["Electivo Lengua A", "semestral"], ["Electivo Lengua B", "semestral"], 
+   ["Electivo Especialización Temática", "anual"],
    ["Electivo Lengua A", "semestral"], ["Electivo Lengua B", "semestral"],
-   ["Seminario Licenciatura en Traductología", "semestral"], ["Asignatura Complementaria", "semestral"]]
+   ["Seminario Licenciatura en Translatología", "semestral"], ["Asignatura Complementaria", "semestral"]]
 ];
 
 const container = document.getElementById("malla-container");
