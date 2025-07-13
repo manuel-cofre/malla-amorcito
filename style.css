@@ -63,6 +63,7 @@ h1 {
 .ramo {
   padding: 10px;
   font-size: 16px;
+  text-align: center;
 }
 
 .ramo:hover {
